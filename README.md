@@ -67,7 +67,7 @@ Artificial_Intelligence/
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/8MISHRA/Artificial_Intelligence.git
+git clone https://github.com/8MISHRA/Best_Path_Between_Two_Districts.git
 cd Artificial_Intelligence
 \`\`\`
 
